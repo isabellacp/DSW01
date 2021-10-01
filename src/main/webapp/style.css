@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+
+.menu-btn {
+    padding: 10px;
+    text-decoration: none;
+    color: cadetblue;
+}
